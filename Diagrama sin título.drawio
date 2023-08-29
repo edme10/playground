@@ -1,14 +1,14 @@
-<mxfile modified="2023-08-29T17:25:07.961Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8F_h-1ay0Ac60y1J7iMQ" version="21.7.0" type="github">
+<mxfile modified="2023-08-29T17:30:14.146Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-9t6WDHnegWddH7qx5Ub" version="21.7.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2734" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EPNJKxrRpqHv5ameMNeh-1" value="CI/CD - Architecture" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="47" width="310" height="40" as="geometry" />
+        <mxCell id="EPNJKxrRpqHv5ameMNeh-1" value="CI/CD &amp;amp; Solution Architecture" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="27" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EPNJKxrRpqHv5ameMNeh-2" value="COLSUBSIDIO&lt;br&gt;Isobar Colombia" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="97" width="140" height="50" as="geometry" />
+        <mxCell id="EPNJKxrRpqHv5ameMNeh-2" value="PLAYGROUND - NAWEL&lt;br&gt;Dentsu Creative&lt;br&gt;Architect: Eduardo Medina" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="77" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EPNJKxrRpqHv5ameMNeh-3" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="236" y="182.5" width="2334" height="945.5" as="geometry" />
